@@ -1,3 +1,2 @@
-![image](https://github.com/leonardosantana214/leonardosantana214/assets/131973385/0fd112b0-68d4-4cf8-a8f9-6061b1c26ed8) Eu Sou o CatGamer
-eu Odeio o Gilbert ![image](https://github.com/leonardosantana214/leonardosantana214/assets/131973385/d7772f3b-990b-49be-b239-eb0447c937c1)
+![gif](https://i.pinimg.com/originals/89/c4/1b/89c41b5719cee78af952def438761e11.gif) Apenas Programando
 
