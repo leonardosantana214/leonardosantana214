@@ -1,8 +1,8 @@
-### Olá eu sou o Leonardo 🧝🧙🪄
+### Olá eu sou o Leonardo 🤗🤗
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kynes_price/)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-5499392a3/)
-[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-5499392a3/)
+[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/7/#inbox?compose=GTvVlcSDZqtfnTQSVSBWPGCgmBhKcGdTfTmjjHzVrnkSpSwdBrSHwfShwDwHRCNknPQfpFXpVvcxH)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantana214&show_icons=true&theme=synthwave)
 
