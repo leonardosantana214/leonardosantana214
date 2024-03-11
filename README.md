@@ -1,4 +1,4 @@
-### Olá eu sou o Leonardo 🤗🤗
+### Olá eu sou o Leonardo 🧝🧙🧙🪄
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kynes_price/)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-5499392a3/)
