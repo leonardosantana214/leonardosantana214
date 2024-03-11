@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
     </div> <br><br>
     
-https://github-readme-stats.vercel.app/api/top-langs/?username={leonardosantana214}&theme=synthwave
+https://github-readme-stats.vercel.app/api/top-langs/?username={leonardosantana214}&theme=blue-green
 
 # Projetos Principais:
 * [**PineApple - Company**](https://github.com/leonardosantana214/PineApple-Company) - Pine´s Sports feito em Html, Css e javaScript - Inovador e minimalista
