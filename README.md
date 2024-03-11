@@ -1,4 +1,4 @@
-### Olá eu sou o Leonardo 🧝🧙🪄
+### Olá eu sou o Leonardo 🤗🤗
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kynes_price/)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-5499392a3/)
@@ -9,6 +9,7 @@
 ## Tecnologias que eu uso no meu dia a dia
 <!-- criar uma div com inline-block para por as imagens do badges -->
 <div style="display:inline-block">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=blue-green" /><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
@@ -20,8 +21,7 @@
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
     </div> <br><br>
-    
-https://github-readme-stats.vercel.app/api/top-langs/?username={leonardosantana214}&theme=blue-green
+
 
 # Projetos Principais:
 * [**PineApple - Company**](https://github.com/leonardosantana214/PineApple-Company) - Pine´s Sports feito em Html, Css e javaScript - Inovador e minimalista
