@@ -1,10 +1,18 @@
-<div style="background-image: url('https://64.media.tumblr.com/7e646d701b09619cbd7847b65ea580f0/807f9e5a5e0ce538-d1/s1280x1920/163e290a79a60d0a9230eb2e76c4c354d300dbfa.gif'); background-size: cover; padding: 20px; color: white; backdrop-filter: blur(5px); border-radius: 10px;">
+![Header Image](https://64.media.tumblr.com/7e646d701b09619cbd7847b65ea580f0/807f9e5a5e0ce538-d1/s1280x1920/163e290a79a60d0a9230eb2e76c4c354d300dbfa.gif)
 
-  ### Olá eu sou o Leonardo 🧝🧙🧙🪄
+<h3 align="center" style="color: white;">Olá, eu sou o Leonardo 🧝🧙🧙🪄</h3>
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kynes_price/)
-  [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-5499392a3/)
-  [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/7/#inbox?compose=GTvVlcSDZqtfnTQSVSBWPGCgmBhKcGdTfTmjjHzVrnkSpSwdBrSHwfShwDwHRCNknPQfpFXpVvcxH)
+<p align="center">
+    <a href="https://www.instagram.com/kynes_price/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-5499392a3/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://mail.google.com/mail/u/7/#inbox?compose=GTvVlcSDZqtfnTQSVSBWPGCgmBhKcGdTfTmjjHzVrnkSpSwdBrSHwfShwDwHRCNknPQfpFXpVvcxH">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</p>
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=leonardosantana214&theme=blue-green)
 
