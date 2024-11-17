@@ -54,11 +54,12 @@
       <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack"/>
       </div> <br><br>
 
-</div>
-    # Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>
+
+   # Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=blue-green" /><br>
 # Projetos Principais:
 * [**PineApple - Company**](https://github.com/leonardosantana214/PineApple-Company) - Pine´s Sports feito em Html, Css e javaScript - Inovador e minimalista
 * [**Toranjinha**](https://github.com/leonardosantana214/Toranjinha-3) - Toranjinha feito em Html, Css, javaScript, PhP, mySql - Conforto, PixelArt e Hello World
 * [**DyingBrains**](https://github.com/leonardosantana214/DyingBrains) - DyingBrains feito em PhP, Css, MySQL - StreetWear e Inovador 
 * [**Cat Assist SESI**](https://github.com/PabloCamiloJesus/cat-assist-web) - Cat Assist SESI feito em React - Inteligencia Artificial e Minimalista 
+</div>
