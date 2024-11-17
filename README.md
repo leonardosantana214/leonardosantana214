@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2.svg?style=for-the-badge&logo=Semantic-UI-React&logoColor=white" alt="Semantic React"/>
       <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack"/>
       </div> <br><br>
-### Tecnologias Mais Utilizadas 👇👇🧙🧙🧝
+    ## Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=blue-green" /><br>
 </div>
 
