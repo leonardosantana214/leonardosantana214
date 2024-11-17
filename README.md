@@ -35,6 +35,24 @@
       <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON"/>
       <img src="https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white" alt="CHAT"/>
       <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="MarkDown"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"/>
+      <img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" alt="Adobe"/>
+      <img src="https://img.shields.io/badge/Dungeons%20&%20Dragons-ED1C24.svg?style=for-the-badge&logo=dungeonsanddragons&logoColor=white" alt="D&D"/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="Axios"/>
+      <img src="https://img.shields.io/badge/Bluetooth-0082FC.svg?style=for-the-badge&logo=Bluetooth&logoColor=white" alt="Bluetooth"/>
+      <img src="https://img.shields.io/badge/CurseForge-F16436.svg?style=for-the-badge&logo=CurseForge&logoColor=white" alt="Curse"/>
+      <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" alt="Expo"/>
+      <img src="https://img.shields.io/badge/Framework-000000.svg?style=for-the-badge&logo=Framework&logoColor=white" alt="FrameWork"/>
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/JPEG-8A8A8A.svg?style=for-the-badge&logo=JPEG&logoColor=white" alt="JPEG"/>
+      <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="Jquery"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAi"/>
+      <img src="https://img.shields.io/badge/Pinterest-BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/remove.bg-54616C.svg?style=for-the-badge&logo=removedotbg&logoColor=white" alt="R-BG"/>
+      <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2.svg?style=for-the-badge&logo=Semantic-UI-React&logoColor=white" alt="Semantic React"/>
+      <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2.svg?style=for-the-badge&logo=Semantic-UI-React&logoColor=white" alt="Semantic React"/>
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack"/>
       </div> <br><br>
 
 </div>
