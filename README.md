@@ -53,10 +53,10 @@
       <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2.svg?style=for-the-badge&logo=Semantic-UI-React&logoColor=white" alt="Semantic React"/>
       <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack"/>
       </div> <br><br>
-    ## Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=blue-green" /><br>
-</div>
 
+</div>
+    # Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=blue-green" /><br>
 # Projetos Principais:
 * [**PineApple - Company**](https://github.com/leonardosantana214/PineApple-Company) - Pine´s Sports feito em Html, Css e javaScript - Inovador e minimalista
 * [**Toranjinha**](https://github.com/leonardosantana214/Toranjinha-3) - Toranjinha feito em Html, Css, javaScript, PhP, mySql - Conforto, PixelArt e Hello World
