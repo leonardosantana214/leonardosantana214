@@ -29,3 +29,4 @@
 * [**PineApple - Company**](https://github.com/leonardosantana214/PineApple-Company) - Pine´s Sports feito em Html, Css e javaScript - Inovador e minimalista
 * [**Toranjinha**](https://github.com/leonardosantana214/Toranjinha-3) - Toranjinha feito em Html, Css, javaScript, PhP, mySql - Conforto, PixelArt e Hello World
 * [**DyingBrains**](https://github.com/leonardosantana214/DyingBrains) - DyingBrains feito em PhP, Css, MySQL - StreetWear e Inovador 
+* [**Cat Assist SESI**](https://github.com/PabloCamiloJesus/cat-assist-web) - Cat Assist SESI feito em React - Inteligencia Artificial e Minimalista 
