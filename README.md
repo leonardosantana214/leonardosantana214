@@ -7,6 +7,7 @@
   [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/7/#inbox?compose=GTvVlcSDZqtfnTQSVSBWPGCgmBhKcGdTfTmjjHzVrnkSpSwdBrSHwfShwDwHRCNknPQfpFXpVvcxH)
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=leonardosantana214&theme=blue-green)
+  <img src="https://i.pinimg.com/originals/ed/98/a0/ed98a01d1e5f3edae97a7b30fb950d0c.gif" heigth="193px" width="193px" style="border-radius: 30px;" /><br>
 
   ## Tecnologias que eu uso no meu dia a dia
   <div style="display:inline-block">
@@ -55,10 +56,11 @@
       </div> <br><br>
 
 
-   # Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=blue-green" />                           
+   # Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>                       
   <img src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s1280x1920/77834671d439b7e1d937531c7fc18bef53f8ad00.gif" heigth="290px" width="290px" style="border-radius: 30px;" />
-  <img src="https://i.redd.it/zym5pybotlja1.gif" heigth="290px" width="290px" style="border-radius: 30px;" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=blue-green" />    
+  <img src="https://data.nextshark.com/wp-content/uploads/2018/01/tumblr_ozth0ga3EL1qze3hdo1_r1_500.gif" heigth="193px" width="193px" style="border-radius: 30px;" /><br>
+
      
    # Projetos Principais:
   * [**PineApple - Company**](https://github.com/leonardosantana214/PineApple-Company) - Pine´s Sports feito em Html, Css e javaScript - Inovador e minimalista
