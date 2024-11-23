@@ -58,7 +58,7 @@
 
    # Tecnologias Mais Utilizadas 👇👇🧙🧙🧝 <br>                       
   <img src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s1280x1920/77834671d439b7e1d937531c7fc18bef53f8ad00.gif" heigth="290px" width="290px" style="border-radius: 30px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=purple-green" />    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&theme=green-purple" />    
   <img src="https://i.pinimg.com/originals/3c/72/54/3c72547f470bfa9b2044a33e430ca151.gif" heigth="193px" width="193px" style="border-radius: 30px;" /><br>
 
      
