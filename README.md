@@ -11,10 +11,10 @@
     Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras e interfaces intuitivas. Estou sempre buscando aprender novas tecnologias para transformar ideias em realidade.
   </p>
 
-  <a href="https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-5499392a3/" target="_blank">
+  <a href="www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-169a76346" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email-aqui@gmail.com">
+  <a href="mailto:dev.leonardosantana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
