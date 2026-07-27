@@ -67,7 +67,7 @@ Currently working on healthcare systems, fintech solutions and game development 
 
 ## Featured Projects
 
-### 🏥 CPAI Digital Ecosystem
+### 🏥 CPAE Digital Ecosystem
 
 Healthcare platform integrating:
 
