@@ -1,395 +1,625 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,50:1F6FEB,100:0D1117&height=220&section=header&text=LEONARDO%20SANTANA&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20BACKEND%20%E2%80%A2%20DEVOPS%20%E2%80%A2%20AI&descAlignY=58&descSize=15"/>
+<!-- =========================================================
+     LEONARDO SANTANA — GITHUB PROFILE
+     PIXEL RPG / PROFESSIONAL DEVELOPER EDITION
+     ========================================================= -->
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/ed/98/a0/ed98a01d1e5f3edae97a7b30fb950d0c.gif" width="240" alt="Pixel art coding animation"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=LEONARDO+SANTANA;FULL+STACK+DEVELOPER+%7C+BACKEND+ENGINEER;BUILDING+SYSTEMS.+AUTOMATING+WORKFLOWS."
+  alt="Typing SVG"
+/>
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=FULL+STACK+DEVELOPER;BACKEND+ENGINEER;DEVOPS+%2B+AUTOMATION;REAL-TIME+%2B+AI+SYSTEMS;GODOT+GAME+DEV" alt="Typing SVG" />
+<table align="center" width="100%">
+<tr>
+
+<td width="30%" align="center" valign="middle">
+
+<img
+  src="https://i.pinimg.com/originals/ed/98/a0/ed98a01d1e5f3edae97a7b30fb950d0c.gif"
+  width="220"
+  alt="Pixel Character"
+/>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=leonardosantana214&style=for-the-badge&color=14151A&label=PROFILE+VISITORS"
+  alt="Profile Visitors"
+/>
+
+</td>
+
+<td width="70%" align="center" valign="middle">
+
+<h3><code>PRESS START</code></h3>
+
+<strong>
+Full Stack Developer focused on backend architecture, modern web applications,
+automation systems, real-time communication and scalable digital products.
+</strong>
 
 <br/><br/>
 
 <a href="https://leonardosantana.tech">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_WORLD-6E40C9?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-14151A?style=for-the-badge&logo=googlechrome&logoColor=7DF9FF" alt="Portfolio"/>
 </a>
+
 <a href="https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-169a76346/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN_LINKEDIN-14151A?style=for-the-badge&logo=linkedin&logoColor=7DF9FF" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:dev.leonardosantana@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-SEND_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEND_MESSAGE-14151A?style=for-the-badge&logo=gmail&logoColor=7DF9FF" alt="Email"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=leonardosantana214&label=PLAYER+VISITS&color=6e40c9&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
----
-
-```text
-╭─────────────────────── PLAYER LOGIN ───────────────────────╮
-│                                                           │
-│   USER      Leonardo Santana                              │
-│   CLASS     Full Stack Developer                          │
-│   BUILD     Backend + Product + DevOps + Automation       │
-│   REGION    Brazil / Remote Worldwide                     │
-│   STATUS    ● ONLINE                                      │
-│                                                           │
-╰───────────────────────────────────────────────────────────╯
-```
-
-# 🎮 PLAYER PROFILE
-
-I build **production-ready software from zero to deployment**: scalable APIs, SaaS platforms, real-time systems, AI-powered automations, mobile applications and Linux infrastructure.
-
-My strongest build is centered on **TypeScript, NestJS/Node.js, React/Next.js, PostgreSQL, Docker and Linux**, with hands-on experience across **WebSockets, Redis, API integrations, automation workflows and AI/LLM integrations**.
-
-I care about both sides of the game: **architecture that survives production** and **interfaces that feel polished to real users**.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 CHARACTER DATA
-
-| Attribute | Value |
-|---|---|
-| **Name** | Leonardo Cardoso Ferreira de Santana |
-| **Role** | Full Stack Developer |
-| **Specialization** | Backend Architecture • SaaS • DevOps |
-| **Education** | Systems Development Technician — SENAI |
-| **Base** | São Paulo, Brazil |
-| **Availability** | Remote opportunities worldwide |
+<a href="https://github.com/leonardosantana214?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-14151A?style=for-the-badge&logo=github&logoColor=7DF9FF" alt="Projects"/>
+</a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🗺️ ACTIVE QUEST
-
-| Objective | Status |
-|---|---|
-| Build scalable products | 🟢 ACTIVE |
-| Backend & distributed systems | 🟢 ACTIVE |
-| DevOps & production infrastructure | 🟢 ACTIVE |
-| AI / automation workflows | 🟢 ACTIVE |
-| Game development with Godot | 🟡 SIDE QUEST |
-| International remote work | 🔵 SEARCHING |
-
-</td>
 </tr>
 </table>
 
 ---
 
-# ⚔️ CURRENT LOADOUT
-
 <div align="center">
 
-### Frontend / UI
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite&perline=9" />
-
-### Backend / APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel&perline=5" />
-
-### Data / Real-Time
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase&perline=5" />
-
-### DevOps / Tooling
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode&perline=7" />
-
-### Mobile / Game Dev
-
-<img src="https://skillicons.dev/icons?i=react,godot&perline=2" />
+## `// PLAYER PROFILE`
 
 </div>
 
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<h3><code>IDENTITY.dat</code></h3>
+
+<pre align="left">
+PLAYER     Leonardo Santana
+CLASS      Full Stack Developer
+SPEC       Backend / Systems
+REGION     São Paulo, Brazil
+STATUS     Open to Opportunities
+MODE       Production
+</pre>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3><code>CURRENT_BUILD.dat</code></h3>
+
+<pre align="left">
+BACKEND     █████████░  90%
+FRONTEND    ████████░░  80%
+DATABASE    █████████░  90%
+DEVOPS      ████████░░  80%
+AUTOMATION  █████████░  90%
+GAME DEV    ██████░░░░  60%
+</pre>
+
+</td>
+
+</tr>
+</table>
+
 <br/>
 
-| SLOT | EQUIPPED |
-|---|---|
-| 🧠 **Backend Core** | TypeScript • NestJS • Node.js • Express • PHP • Laravel |
-| 🎨 **Frontend** | React • Next.js • JavaScript • HTML5 • CSS3 • TailwindCSS • Bootstrap |
-| 📱 **Mobile** | React Native • Expo |
-| 🗃️ **Databases** | PostgreSQL • MySQL • SQLite • Firebase |
-| ⚡ **Real-Time** | WebSockets • Socket.IO • Redis |
-| 🐳 **Infrastructure** | Docker • Docker Compose • Linux VPS • Nginx • PM2 |
-| 🤖 **Automation / AI** | n8n • LLM integrations • AI agents • workflow automation |
-| 🧪 **Quality / Tools** | Postman • Git • GitHub |
-| 🎮 **Game Dev** | Godot Engine • GDScript |
-| 🧭 **Workflow** | Scrum • Kanban |
+<div align="center">
+
+### `SYSTEM MESSAGE`
+
+Building production-ready systems with clean architecture, strong backend foundations,
+modern interfaces and automation-first thinking.
+
+</div>
 
 ---
 
-# 🧭 CAREER MAP
+<div align="center">
 
-```text
-2022 ─────── 2023 ─────── 2024 ─────── 2025 ─────── 2026 ───────►
+## `// CLASS SPECIALIZATION`
 
- HTML/CSS      PHP/MySQL      React/RN        Automation       SaaS /
- foundations   backend        Full Stack      + AI             Backend
-      │             │              │              │                │
-      └────────── SENAI SYSTEMS DEVELOPMENT ─────┘                │
-                                                                  ▼
-                                                        PRODUCTION SYSTEMS
-```
+</div>
 
----
-
-# 🗡️ MAIN QUEST LOG
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<h3>🏥 QUEST 01 — CPAE Digital Ecosystem</h3>
+<td width="33%" align="center" valign="top">
 
-<p><strong>Healthcare Platform</strong></p>
+<h3><code>BACKEND</code></h3>
 
-<p>
-Healthcare software combining operational workflows, lead generation, patient screening, CRM processes and automated communication.
-</p>
+<img
+  src="https://img.shields.io/badge/LVL_90-14151A?style=for-the-badge&logo=nodedotjs&logoColor=7DF9FF"
+  alt="Backend Level"
+/>
 
-<p>
+<br/><br/>
+
+<code>NestJS</code><br/>
+<code>Node.js</code><br/>
+<code>PHP</code><br/>
+<code>REST APIs</code><br/>
+<code>WebSockets</code><br/>
+<code>Prisma</code>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3><code>FRONTEND</code></h3>
+
+<img
+  src="https://img.shields.io/badge/LVL_80-14151A?style=for-the-badge&logo=react&logoColor=7DF9FF"
+  alt="Frontend Level"
+/>
+
+<br/><br/>
+
+<code>React</code><br/>
+<code>Next.js</code><br/>
+<code>TypeScript</code><br/>
+<code>Tailwind CSS</code><br/>
+<code>React Native</code><br/>
+<code>Vite</code>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3><code>INFRA</code></h3>
+
+<img
+  src="https://img.shields.io/badge/LVL_80-14151A?style=for-the-badge&logo=docker&logoColor=7DF9FF"
+  alt="Infrastructure Level"
+/>
+
+<br/><br/>
+
+<code>Docker</code><br/>
+<code>Linux</code><br/>
+<code>Nginx</code><br/>
+<code>VPS</code><br/>
+<code>PM2</code><br/>
+<code>Git</code>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `// INVENTORY`
+
+</div>
+
+<table align="center" width="100%">
+
+<tr>
+
+<td align="center" width="25%">
+<strong>LANGUAGES</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,php,python" alt="Languages"/>
+</td>
+
+<td align="center" width="25%">
+<strong>FRONTEND</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html" alt="Frontend"/>
+</td>
+
+<td align="center" width="25%">
+<strong>BACKEND</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" alt="Backend"/>
+</td>
+
+<td align="center" width="25%">
+<strong>DATABASE</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Database"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<strong>DEVOPS</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git" alt="DevOps"/>
+</td>
+
+<td align="center" width="25%">
+<strong>MOBILE</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,firebase" alt="Mobile"/>
+</td>
+
+<td align="center" width="25%">
+<strong>GAME DEV</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=godot" alt="Game Dev"/>
+</td>
+
+<td align="center" width="25%">
+<strong>TOOLS</strong>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,figma" alt="Tools"/>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `// ACTIVE QUESTS`
+
+</div>
+
+<table align="center" width="100%">
+
+<tr>
+<td width="8%" align="center"><strong>01</strong></td>
+<td width="62%">
+<strong>Scalable Backend Systems</strong><br/>
+<sub>Designing production-ready services, authentication flows and scalable APIs.</sub>
+</td>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-14151A?style=flat-square&logo=githubactions&logoColor=7DF9FF" alt="In Progress"/>
+</td>
+</tr>
+
+<tr>
+<td width="8%" align="center"><strong>02</strong></td>
+<td width="62%">
+<strong>Automation &amp; AI Workflows</strong><br/>
+<sub>Building agent-based workflows, business automations and smart integrations.</sub>
+</td>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-14151A?style=flat-square&logo=probot&logoColor=7DF9FF" alt="Active"/>
+</td>
+</tr>
+
+<tr>
+<td width="8%" align="center"><strong>03</strong></td>
+<td width="62%">
+<strong>Game Development Journey</strong><br/>
+<sub>Expanding into pixel-art RPG creation with Godot and gameplay systems.</sub>
+</td>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/STATUS-BUILDING-14151A?style=flat-square&logo=godotengine&logoColor=7DF9FF" alt="Building"/>
+</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `// SAVE FILES — FEATURED PROJECTS`
+
+</div>
+
+<details>
+<summary><strong>SAVE SLOT 01 — CPAE DIGITAL ECOSYSTEM</strong></summary>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="28%" align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,postgres,docker" alt="CPAE Stack"/>
+</td>
+
+<td width="72%" valign="top">
+
+<strong>CPAE Digital Ecosystem</strong>
+
+<br/><br/>
+
+A healthcare-focused platform designed with a robust architecture for digital operations,
+patient flows, content management and business process support.
+
+<br/><br/>
+
 <code>NestJS</code>
+<code>Next.js</code>
 <code>PostgreSQL</code>
-<code>React</code>
+<code>Prisma</code>
 <code>Docker</code>
-</p>
-
-<a href="https://leonardosantana.tech">
-<img src="https://img.shields.io/badge/OPEN_QUEST-PORTFOLIO-6E40C9?style=for-the-badge"/>
-</a>
 
 </td>
-<td width="50%" valign="top">
 
-<h3>📈 QUEST 02 — Back Option</h3>
+</tr>
+</table>
 
-<p><strong>Financial / Trading Platform</strong></p>
+<br/>
 
-<p>
-Application focused on financial services, digital operations and real-time communication between platform components.
-</p>
+</details>
 
-<p>
+<details>
+<summary><strong>SAVE SLOT 02 — BACK OPTION</strong></summary>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="28%" align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=nestjs,react,postgres,ts" alt="Back Option Stack"/>
+</td>
+
+<td width="72%" valign="top">
+
+<strong>Back Option</strong>
+
+<br/><br/>
+
+A real-time trading-oriented platform focused on performance, interactivity
+and data-driven financial operations.
+
+<br/><br/>
+
 <code>NestJS</code>
-<code>PostgreSQL</code>
 <code>React</code>
-<code>WebSockets</code>
-</p>
-
-<a href="https://leonardosantana.tech">
-<img src="https://img.shields.io/badge/OPEN_QUEST-PORTFOLIO-6E40C9?style=for-the-badge"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🤖 QUEST 03 — TradingBolt AI</h3>
-
-<p><strong>AI-Powered Market Automation</strong></p>
-
-<p>
-Automation platform designed around intelligent workflows, AI agents and market-monitoring processes.
-</p>
-
-<p>
-<code>Node.js</code>
 <code>PostgreSQL</code>
-<code>AI Agents</code>
-<code>LLM Integrations</code>
-</p>
-
-<a href="https://leonardosantana.tech">
-<img src="https://img.shields.io/badge/OPEN_WORLD-PORTFOLIO-6E40C9?style=for-the-badge"/>
-</a>
+<code>WebSockets</code>
+<code>TypeScript</code>
 
 </td>
-<td width="50%" valign="top">
 
-<h3>🎮 QUEST 04 — TedInver Reborn</h3>
-
-<p><strong>2D RPG / Active Development</strong></p>
-
-<p>
-Narrative-focused RPG featuring combat systems, bosses, progression mechanics, exploration, custom UI systems and a large pixel-art world.
-</p>
-
-<p>
-<code>Godot Engine</code>
-<code>GDScript</code>
-<code>2D RPG</code>
-<code>Pixel Art</code>
-</p>
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-D29922?style=for-the-badge"/>
-
-</td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🧪 SIDE QUESTS
+</details>
 
-<table>
+<details>
+<summary><strong>SAVE SLOT 03 — AUTOMATION SYSTEMS</strong></summary>
+
+<br/>
+
+<table align="center" width="100%">
 <tr>
-<td width="33%" valign="top">
 
-### 🐱 Cat Assist
+<td width="28%" align="center" valign="middle">
+<img src="https://img.shields.io/badge/AUTOMATION-SYSTEMS-14151A?style=for-the-badge&logo=n8n&logoColor=7DF9FF" alt="Automation"/>
+</td>
 
-Real-time customer-assistance project involving modern web technologies, Firebase and AI-assisted workflows.
+<td width="72%" valign="top">
 
-[![Open Repository](https://img.shields.io/badge/GITHUB-OPEN_REPO-181717?style=for-the-badge&logo=github)](https://github.com/leonardosantana214/cat-assist-web)
+<strong>Automation Systems</strong>
+
+<br/><br/>
+
+Business workflow automation using AI agents, integrations, communication pipelines,
+data persistence and operational logic.
+
+<br/><br/>
+
+<code>n8n</code>
+<code>AI Agents</code>
+<code>Supabase</code>
+<code>APIs</code>
+<code>Webhooks</code>
 
 </td>
-<td width="33%" valign="top">
 
-### 🍊 Toranja
-
-Pixel-art themed web project combining interactive front-end effects, PHP and relational database functionality.
-
-[![Open Repository](https://img.shields.io/badge/GITHUB-OPEN_REPO-181717?style=for-the-badge&logo=github)](https://github.com/leonardosantana214/Toranja)
-
-</td>
-<td width="33%" valign="top">
-
-### 📱 SprintCyanic
-
-Mobile-development project built around React Native concepts and application flows.
-
-[![Open Repository](https://img.shields.io/badge/GITHUB-OPEN_REPO-181717?style=for-the-badge&logo=github)](https://github.com/leonardosantana214/SprintCyanic)
-
-</td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+</details>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/ACHIEVEMENT-PRODUCTION_SYSTEMS-238636?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/ACHIEVEMENT-REAL_TIME_SYSTEMS-1F6FEB?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/ACHIEVEMENT-SAAS_ARCHITECTURE-6E40C9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ACHIEVEMENT-AI_AUTOMATION-A371F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ACHIEVEMENT-MOBILE_APPS-0A7EA4?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/ACHIEVEMENT-GAME_DEV-D29922?style=for-the-badge&logo=godotengine&logoColor=white"/>
-
-</div>
-
----
-
-# 📦 PUBLIC INVENTORY
-
-<div align="center">
-
-<a href="https://github.com/leonardosantana214/cat-assist-web">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardosantana214&repo=cat-assist-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=6E40C9"/>
-</a>
-<a href="https://github.com/leonardosantana214/Toranja">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardosantana214&repo=Toranja&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=6E40C9"/>
-</a>
-
-<a href="https://github.com/leonardosantana214/SprintCyanic">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardosantana214&repo=SprintCyanic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=6E40C9"/>
-</a>
-<a href="https://github.com/leonardosantana214/Starbucks">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=leonardosantana214&repo=Starbucks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=6E40C9"/>
-</a>
-
-</div>
-
----
-
-# 📊 PLAYER STATS
-
-<div align="center">
-
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=leonardosantana214&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=6E40C9&text_color=C9D1D9" />
-
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana214&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<details>
+<summary><strong>SAVE SLOT 04 — TED INVER REBORN</strong></summary>
 
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=leonardosantana214&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=58A6FF&currStreakLabel=58A6FF" />
+<table align="center" width="100%">
+<tr>
+
+<td width="28%" align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=godot" alt="Ted Inver Reborn"/>
+</td>
+
+<td width="72%" valign="top">
+
+<strong>Ted Inver Reborn</strong>
+
+<br/><br/>
+
+A pixel-art RPG project exploring worldbuilding, gameplay systems,
+combat design and unique visual identity through Godot.
+
+<br/><br/>
+
+<code>Godot</code>
+<code>GDScript</code>
+<code>Pixel Art</code>
+<code>RPG Systems</code>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+</details>
+
+---
+
+<div align="center">
+
+## `// GITHUB TELEMETRY`
+
+<sub>LIVE PLAYER DATA / PUBLIC REPOSITORY SIGNAL</sub>
+
+<br/><br/>
+
+<img
+  width="92%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardosantana214&theme=tokyonight"
+  alt="Leonardo Santana GitHub Profile Details"
+/>
+
+<br/><br/>
+
+<table align="center" width="92%">
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardosantana214&theme=tokyonight"
+  alt="GitHub Stats"
+/>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardosantana214&theme=tokyonight"
+  alt="Repositories Per Language"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardosantana214&theme=tokyonight"
+  alt="Most Used Languages By Commit"
+/>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leonardosantana214&theme=tokyonight&utcOffset=-3"
+  alt="Productive Time"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🐉 CONTRIBUTION BOSS
-
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardosantana214&bg_color=0D1117&color=58A6FF&line=6E40C9&point=F0F6FC&area=true&hide_border=true" />
+## `// PLAYER RECORDS`
+
+<sub>CONTRIBUTION STREAK / DEVELOPMENT ACTIVITY</sub>
+
+<br/><br/>
+
+<img
+  width="75%"
+  src="https://streak-stats.demolab.com?user=leonardosantana214&theme=tokyonight&hide_border=true&background=00000000&stroke=7DF9FF&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF"
+  alt="GitHub Contribution Streak"
+/>
+
+<br/><br/>
+
+<table align="center" width="92%">
+<tr>
+
+<td width="33%" align="center">
+
+<strong>BUILD</strong>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/STATUS-ACTIVE-14151A?style=for-the-badge&logo=github&logoColor=7DF9FF"
+  alt="Active Developer"
+/>
+
+</td>
+
+<td width="33%" align="center">
+
+<strong>REGION</strong>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/TIMEZONE-UTC--03-14151A?style=for-the-badge&logo=clockify&logoColor=7DF9FF"
+  alt="Timezone UTC -03"
+/>
+
+</td>
+
+<td width="33%" align="center">
+
+<strong>PROFILE</strong>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=leonardosantana214&style=for-the-badge&color=14151A&label=PLAYER+VISITS"
+  alt="Profile Visits"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🌎 LANGUAGE PACK
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Portuguese-Native-238636?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-Professional-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spanish-Advanced-D29922?style=for-the-badge"/>
+## `// CONTACT TERMINAL`
 
-</div>
 
----
+> whoami
+Leonardo Santana
 
-# 🤝 START A CO-OP
+> role
+Full Stack Developer | Backend Engineer
 
-I'm open to **international remote opportunities and software projects** involving full-stack development, backend engineering, SaaS, APIs, automation, AI integrations and production infrastructure.
+> focus
+Backend systems, automation, web applications, real-time software
 
-<div align="center">
-
+> contact
+dev.leonardosantana@gmail.com
 <a href="mailto:dev.leonardosantana@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-dev.leonardosantana%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-169a76346/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Leonardo_Santana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leonardosantana.tech">
-  <img src="https://img.shields.io/badge/PORTFOLIO-leonardosantana.tech-6E40C9?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRESS_START_TO_CONNECT-14151A?style=for-the-badge&logo=gmail&logoColor=7DF9FF" alt="Contact CTA"/>
 </a>
 
 </div>
-
-<br/>
-
-```text
-> quest.accept("build something great")
-> party.add("Leonardo Santana")
-
-> backend.status ............... ONLINE
-> frontend.status .............. ONLINE
-> devops.status ................ ONLINE
-> coffee.status ................ CRITICAL
-
-> NEXT LEVEL ████████████████████ 100%
-```
-
-<div align="center">
-
-### ⭐ Thanks for visiting my world.
-
-**Code the system. Ship the product. Level up.**
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:6E40C9&height=140&section=footer"/>
