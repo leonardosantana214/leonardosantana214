@@ -6,7 +6,7 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=LEONARDO+SANTANA;FULL+STACK+DEVELOPER+%7C+BACKEND+ENGINEER;BUILDING+SYSTEMS.+AUTOMATING+WORKFLOWS."
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2600&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=LEONARDO+SANTANA;FULL-STACK+%2F+PRODUCT+ENGINEER;TYPESCRIPT+%E2%80%A2+REACT%2FNEXT+%E2%80%A2+NESTJS+%E2%80%A2+POSTGRESQL;BUILDING+SCALABLE+PRODUCTS+%E2%80%A2+REALTIME+SYSTEMS"
   alt="Typing SVG"
 />
 
@@ -37,27 +37,38 @@
 <h3><code>PRESS START</code></h3>
 
 <strong>
-Full Stack Developer focused on backend architecture, modern web applications,
-automation systems, real-time communication and scalable digital products.
+Full-Stack / Product Engineer building TypeScript products across React/Next.js frontends,
+NestJS/Node APIs, PostgreSQL relational data layers and Docker/Linux deployments.
+Experience in healthcare SaaS, realtime financial platforms, and workflow automation.
 </strong>
 
 <br/><br/>
 
 <a href="https://leonardosantana.tech">
-  <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-14151A?style=for-the-badge&logo=googlechrome&logoColor=7DF9FF" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-14151A?style=for-the-badge&logo=googlechrome&logoColor=7DF9FF" alt="Portfolio"/>
+</a>
+
+<a href="https://leonardosantana.tech/hire.php">
+  <img src="https://img.shields.io/badge/RECRUITER_MODE-14151A?style=for-the-badge&logo=target&logoColor=7DF9FF" alt="Recruiter Mode"/>
 </a>
 
 <a href="https://www.linkedin.com/in/leonardo-cardoso-ferreira-de-santana-169a76346/">
-  <img src="https://img.shields.io/badge/OPEN_LINKEDIN-14151A?style=for-the-badge&logo=linkedin&logoColor=7DF9FF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-14151A?style=for-the-badge&logo=linkedin&logoColor=7DF9FF" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:dev.leonardosantana@gmail.com">
-  <img src="https://img.shields.io/badge/SEND_MESSAGE-14151A?style=for-the-badge&logo=gmail&logoColor=7DF9FF" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-14151A?style=for-the-badge&logo=gmail&logoColor=7DF9FF" alt="Email"/>
 </a>
 
-<a href="https://github.com/leonardosantana214?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-14151A?style=for-the-badge&logo=github&logoColor=7DF9FF" alt="Projects"/>
-</a>
+<br/><br/>
+
+<table align="center">
+<tr>
+<td align="center">
+<sub>📍 <strong>São Paulo, Brazil</strong> &nbsp;•&nbsp; 🌍 <strong>Open to: International Remote (USD/EUR/BRL) &nbsp;•&nbsp; B2B / Contractor &nbsp;•&nbsp; Relocation</strong></sub>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -75,32 +86,34 @@ automation systems, real-time communication and scalable digital products.
 <table align="center" width="100%">
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="48%" valign="top" align="center">
 
 <h3><code>IDENTITY.dat</code></h3>
 
 <pre align="left">
-PLAYER     Leonardo Santana
-CLASS      Full Stack Developer
-SPEC       Backend / Systems
-REGION     São Paulo, Brazil
-STATUS     Open to Opportunities
-MODE       Production
+PLAYER         Leonardo Santana
+CLASS          Full-Stack / Product Engineer
+CORE FOCUS     Web Products &amp; Realtime Systems
+REGION         São Paulo, Brazil
+AVAILABILITY   Remote (Global) • B2B • Relocation
+MODE           In Production
 </pre>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="52%" valign="top" align="center">
 
 <h3><code>CURRENT_BUILD.dat</code></h3>
 
 <pre align="left">
-BACKEND     █████████░  90%
-FRONTEND    ████████░░  80%
-DATABASE    █████████░  90%
-DEVOPS      ████████░░  80%
-AUTOMATION  █████████░  90%
-GAME DEV    ██████░░░░  60%
+[CORE]       Full-Stack Web &amp; Product Engineering
+[PRIMARY]    TypeScript • Node.js • NestJS
+[PRIMARY]    React • Next.js • TailwindCSS
+[STRONG]     PostgreSQL • Prisma ORM • SQL
+[STRONG]     Realtime WebSockets • Event Streaming
+[ACTIVE]     Docker • Linux Deployments
+[ACTIVE]     Workflow Automation &amp; AI Integrations
+[SIDE QUEST] Godot 4 • 2D Pixel RPG Systems
 </pre>
 
 </td>
@@ -114,8 +127,7 @@ GAME DEV    ██████░░░░  60%
 
 ### `SYSTEM MESSAGE`
 
-Building production-ready systems with clean architecture, strong backend foundations,
-modern interfaces and automation-first thinking.
+> "I build TypeScript products across backend APIs, React interfaces, realtime event pipelines and automation workflows, deploying them to Docker/Linux environments."
 
 </div>
 
@@ -123,81 +135,119 @@ modern interfaces and automation-first thinking.
 
 <div align="center">
 
-## `// CLASS SPECIALIZATION`
+## `// SAVE FILES — FEATURED ENGINEERING CASES`
+
+<sub>VERIFIED ARCHITECTURE CASE STUDIES FOR PRODUCTION SYSTEMS</sub>
 
 </div>
+
+<br/>
 
 <table align="center" width="100%">
+
 <tr>
-
-<td width="33%" align="center" valign="top">
-
-<h3><code>BACKEND</code></h3>
-
-<img
-  src="https://img.shields.io/badge/LVL_90-14151A?style=for-the-badge&logo=nodedotjs&logoColor=7DF9FF"
-  alt="Backend Level"
-/>
-
-<br/><br/>
-
-<code>NestJS</code><br/>
-<code>Node.js</code><br/>
-<code>PHP</code><br/>
-<code>REST APIs</code><br/>
-<code>WebSockets</code><br/>
-<code>Prisma</code>
-
+<td width="25%" align="center">
+<strong>CPAE Healthcare SaaS</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=nestjs,nextjs,postgres,docker" alt="CPAE Stack"/><br/><br/>
+<a href="https://github.com/leonardosantana214/case-study-cpae-saas">
+  <img src="https://img.shields.io/badge/CASE_STUDY-14151A?style=flat-square&logo=github&logoColor=7DF9FF" alt="CPAE Case Study"/>
+</a>
+<br/>
+<a href="https://sistema.clinicacpae.com.br">
+  <img src="https://img.shields.io/badge/LIVE_PLATFORM-14151A?style=flat-square&logo=googlechrome&logoColor=50FA7B" alt="CPAE Live"/>
+</a>
 </td>
-
-<td width="33%" align="center" valign="top">
-
-<h3><code>FRONTEND</code></h3>
-
-<img
-  src="https://img.shields.io/badge/LVL_80-14151A?style=for-the-badge&logo=react&logoColor=7DF9FF"
-  alt="Frontend Level"
-/>
-
-<br/><br/>
-
-<code>React</code><br/>
-<code>Next.js</code><br/>
-<code>TypeScript</code><br/>
-<code>Tailwind CSS</code><br/>
-<code>React Native</code><br/>
-<code>Vite</code>
-
+<td width="75%" valign="top">
+<strong>Multi-Tenant Healthcare Clinical &amp; EHR SaaS</strong><br/>
+<sub>Production SaaS for multidisciplinary clinical practice with strict healthcare privacy.</sub>
+<ul>
+  <li><strong>Multi-Tenancy:</strong> Strict tenant isolation across clinics and practitioner rosters.</li>
+  <li><strong>Healthcare RBAC:</strong> Granular guards separating clinical EHR evolutions from reception/billing.</li>
+  <li><strong>Document Pipeline:</strong> MinIO S3 object storage for medical attachments with presigned URL tokens.</li>
+  <li><strong>Async Processing:</strong> Redis-backed Bull queue workers for automated report and PDF generation.</li>
+</ul>
+<code>NestJS 11</code> <code>Next.js 16</code> <code>Prisma 6</code> <code>PostgreSQL</code> <code>MinIO S3</code> <code>Bull/Redis</code> <code>Docker</code>
 </td>
-
-<td width="33%" align="center" valign="top">
-
-<h3><code>INFRA</code></h3>
-
-<img
-  src="https://img.shields.io/badge/LVL_80-14151A?style=for-the-badge&logo=docker&logoColor=7DF9FF"
-  alt="Infrastructure Level"
-/>
-
-<br/><br/>
-
-<code>Docker</code><br/>
-<code>Linux</code><br/>
-<code>Nginx</code><br/>
-<code>VPS</code><br/>
-<code>PM2</code><br/>
-<code>Git</code>
-
-</td>
-
 </tr>
+
+<tr>
+<td width="25%" align="center">
+<strong>BackOption Realtime</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts" alt="BackOption Stack"/><br/><br/>
+<a href="https://github.com/leonardosantana214/case-study-backoption-realtime">
+  <img src="https://img.shields.io/badge/CASE_STUDY-14151A?style=flat-square&logo=github&logoColor=7DF9FF" alt="BackOption Case Study"/>
+</a>
+<br/>
+<a href="https://backoption.io">
+  <img src="https://img.shields.io/badge/LIVE_PLATFORM-14151A?style=flat-square&logo=googlechrome&logoColor=50FA7B" alt="BackOption Live"/>
+</a>
+</td>
+<td width="75%" valign="top">
+<strong>Real-Time Financial Trading Terminal &amp; Market Stream</strong><br/>
+<sub>High-frequency event-driven market terminal with sub-second chart rendering.</sub>
+<ul>
+  <li><strong>WebSocket Pipeline:</strong> Persistent market streams with heartbeat recovery and exponential backoff.</li>
+  <li><strong>TradingView Charts:</strong> Lightweight Charts with dynamic multi-timeframe candle aggregation (1s to 1d).</li>
+  <li><strong>Client Analytics:</strong> Pure-math technical indicators (Bollinger Bands, EMA, SMA, RSI) calculated in real time.</li>
+  <li><strong>Resilient Failover:</strong> Synthetic candle generator maintaining smooth UI pacing during network drops.</li>
+</ul>
+<code>React 18</code> <code>Vite 6</code> <code>WebSockets</code> <code>Lightweight Charts</code> <code>Broker SDK</code> <code>TailwindCSS</code>
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+<strong>ProfitX Trading Engine</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,docker" alt="ProfitX Stack"/><br/><br/>
+<a href="https://github.com/leonardosantana214/case-study-profitx-engine">
+  <img src="https://img.shields.io/badge/CASE_STUDY-14151A?style=flat-square&logo=github&logoColor=7DF9FF" alt="ProfitX Case Study"/>
+</a>
+</td>
+<td width="75%" valign="top">
+<strong>Modular Automated Trading Engine &amp; Risk Controls</strong><br/>
+<sub>Service-oriented algorithmic engine with code-level circuit breakers and audit ledger.</sub>
+<ul>
+  <li><strong>Service Decomposition:</strong> Modular separation of Signal Analyzer, Risk Validator, and Trade Executor.</li>
+  <li><strong>Finite State Machine:</strong> Rigid transition guards eliminating duplicate order executions during market spikes.</li>
+  <li><strong>Risk Controls:</strong> Automated stop-loss, take-profit, daily drawdown caps, and slippage tolerances.</li>
+  <li><strong>Audit Ledger:</strong> PostgreSQL relational logging tracking execution timestamps, slippage, and fees.</li>
+</ul>
+<code>TypeScript 5.3</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker Compose</code> <code>Next.js</code>
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+<strong>TedInver: Reborn</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=godot" alt="TedInver Stack"/><br/><br/>
+<img src="https://img.shields.io/badge/IN_DEVELOPMENT-14151A?style=flat-square&logo=godotengine&logoColor=FFB86C" alt="Building"/>
+</td>
+<td width="75%" valign="top">
+<strong>2D Pixel-Art Action RPG &amp; Gameplay Architecture</strong><br/>
+<sub>Exploration of gameplay state machines, narrative event loops, and retro pixel-art aesthetic.</sub>
+<ul>
+  <li><strong>Game Systems:</strong> Inventory mechanics, NPC schedule routines, companion AI, and dialogue pipelines.</li>
+  <li><strong>Engine Architecture:</strong> Custom GDScript event buses, state machines, and headless testing harnesses.</li>
+</ul>
+<code>Godot 4</code> <code>GDScript</code> <code>Pixel Art</code> <code>Game Architecture</code>
+</td>
+</tr>
+
 </table>
+
+<br/>
+
+<div align="center">
+
+> ℹ️ *Several production repositories are private due to client and project confidentiality. Verified public architecture case studies are linked above.*
+
+</div>
 
 ---
 
 <div align="center">
 
-## `// INVENTORY`
+## `// SKILL TREE`
 
 </div>
 
@@ -226,7 +276,7 @@ modern interfaces and automation-first thinking.
 <td align="center" width="25%">
 <strong>DATABASE</strong>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Database"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" alt="Database"/>
 </td>
 
 </tr>
@@ -234,7 +284,7 @@ modern interfaces and automation-first thinking.
 <tr>
 
 <td align="center" width="25%">
-<strong>DEVOPS</strong>
+<strong>DEVOPS &amp; CLOUD</strong>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git" alt="DevOps"/>
 </td>
@@ -246,13 +296,13 @@ modern interfaces and automation-first thinking.
 </td>
 
 <td align="center" width="25%">
-<strong>GAME DEV</strong>
+<strong>GAME SYSTEMS</strong>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=godot" alt="Game Dev"/>
 </td>
 
 <td align="center" width="25%">
-<strong>TOOLS</strong>
+<strong>TOOLING</strong>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=vscode,github,postman,figma" alt="Tools"/>
 </td>
@@ -274,196 +324,37 @@ modern interfaces and automation-first thinking.
 <tr>
 <td width="8%" align="center"><strong>01</strong></td>
 <td width="62%">
-<strong>Scalable Backend Systems</strong><br/>
-<sub>Designing production-ready services, authentication flows and scalable APIs.</sub>
+<strong>Production Product Engineering</strong><br/>
+<sub>Delivering resilient full-stack web applications, multi-tenant architectures, and reliable APIs.</sub>
 </td>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-14151A?style=flat-square&logo=githubactions&logoColor=7DF9FF" alt="In Progress"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-14151A?style=flat-square&logo=githubactions&logoColor=7DF9FF" alt="Active"/>
 </td>
 </tr>
 
 <tr>
 <td width="8%" align="center"><strong>02</strong></td>
 <td width="62%">
-<strong>Automation &amp; AI Workflows</strong><br/>
-<sub>Building agent-based workflows, business automations and smart integrations.</sub>
+<strong>Realtime &amp; Distributed Systems</strong><br/>
+<sub>Mastering WebSocket event streams, resilient client failovers, and streaming financial charts.</sub>
 </td>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-14151A?style=flat-square&logo=probot&logoColor=7DF9FF" alt="Active"/>
+<img src="https://img.shields.io/badge/STATUS-SHIPPED-14151A?style=flat-square&logo=probot&logoColor=50FA7B" alt="Shipped"/>
 </td>
 </tr>
 
 <tr>
 <td width="8%" align="center"><strong>03</strong></td>
 <td width="62%">
-<strong>Game Development Journey</strong><br/>
-<sub>Expanding into pixel-art RPG creation with Godot and gameplay systems.</sub>
+<strong>International Engineering Collaboration</strong><br/>
+<sub>Collaborating with global teams on high-impact products via remote contracts and engineering roles.</sub>
 </td>
 <td width="30%" align="center">
-<img src="https://img.shields.io/badge/STATUS-BUILDING-14151A?style=flat-square&logo=godotengine&logoColor=7DF9FF" alt="Building"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN-14151A?style=flat-square&logo=internetexplorer&logoColor=FF79C6" alt="Open"/>
 </td>
 </tr>
 
 </table>
-
----
-
-<div align="center">
-
-## `// SAVE FILES — FEATURED PROJECTS`
-
-</div>
-
-<details>
-<summary><strong>SAVE SLOT 01 — CPAE DIGITAL ECOSYSTEM</strong></summary>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="28%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=nestjs,nextjs,postgres,docker" alt="CPAE Stack"/>
-</td>
-
-<td width="72%" valign="top">
-
-<strong>CPAE Digital Ecosystem</strong>
-
-<br/><br/>
-
-A healthcare-focused platform designed with a robust architecture for digital operations,
-patient flows, content management and business process support.
-
-<br/><br/>
-
-<code>NestJS</code>
-<code>Next.js</code>
-<code>PostgreSQL</code>
-<code>Prisma</code>
-<code>Docker</code>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-</details>
-
-<details>
-<summary><strong>SAVE SLOT 02 — BACK OPTION</strong></summary>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="28%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=nestjs,react,postgres,ts" alt="Back Option Stack"/>
-</td>
-
-<td width="72%" valign="top">
-
-<strong>Back Option</strong>
-
-<br/><br/>
-
-A real-time trading-oriented platform focused on performance, interactivity
-and data-driven financial operations.
-
-<br/><br/>
-
-<code>NestJS</code>
-<code>React</code>
-<code>PostgreSQL</code>
-<code>WebSockets</code>
-<code>TypeScript</code>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-</details>
-
-<details>
-<summary><strong>SAVE SLOT 03 — AUTOMATION SYSTEMS</strong></summary>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="28%" align="center" valign="middle">
-<img src="https://img.shields.io/badge/AUTOMATION-SYSTEMS-14151A?style=for-the-badge&logo=n8n&logoColor=7DF9FF" alt="Automation"/>
-</td>
-
-<td width="72%" valign="top">
-
-<strong>Automation Systems</strong>
-
-<br/><br/>
-
-Business workflow automation using AI agents, integrations, communication pipelines,
-data persistence and operational logic.
-
-<br/><br/>
-
-<code>n8n</code>
-<code>AI Agents</code>
-<code>Supabase</code>
-<code>APIs</code>
-<code>Webhooks</code>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-</details>
-
-<details>
-<summary><strong>SAVE SLOT 04 — TED INVER REBORN</strong></summary>
-
-<br/>
-
-<table align="center" width="100%">
-<tr>
-
-<td width="28%" align="center" valign="middle">
-<img src="https://skillicons.dev/icons?i=godot" alt="Ted Inver Reborn"/>
-</td>
-
-<td width="72%" valign="top">
-
-<strong>Ted Inver Reborn</strong>
-
-<br/><br/>
-
-A pixel-art RPG project exploring worldbuilding, gameplay systems,
-combat design and unique visual identity through Godot.
-
-<br/><br/>
-
-<code>Godot</code>
-<code>GDScript</code>
-<code>Pixel Art</code>
-<code>RPG Systems</code>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-</details>
 
 ---
 
@@ -539,87 +430,34 @@ combat design and unique visual identity through Godot.
 
 <div align="center">
 
-## `// PLAYER RECORDS`
-
-<sub>CONTRIBUTION STREAK / DEVELOPMENT ACTIVITY</sub>
-
-<br/><br/>
-
-<img
-  width="75%"
-  src="https://streak-stats.demolab.com?user=leonardosantana214&theme=tokyonight&hide_border=true&background=00000000&stroke=7DF9FF&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF"
-  alt="GitHub Contribution Streak"
-/>
-
-<br/><br/>
-
-<table align="center" width="92%">
-<tr>
-
-<td width="33%" align="center">
-
-<strong>BUILD</strong>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/STATUS-ACTIVE-14151A?style=for-the-badge&logo=github&logoColor=7DF9FF"
-  alt="Active Developer"
-/>
-
-</td>
-
-<td width="33%" align="center">
-
-<strong>REGION</strong>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/TIMEZONE-UTC--03-14151A?style=for-the-badge&logo=clockify&logoColor=7DF9FF"
-  alt="Timezone UTC -03"
-/>
-
-</td>
-
-<td width="33%" align="center">
-
-<strong>PROFILE</strong>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=leonardosantana214&style=for-the-badge&color=14151A&label=PLAYER+VISITS"
-  alt="Profile Visits"
-/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ## `// CONTACT TERMINAL`
 
-
+```
 > whoami
 Leonardo Santana
 
 > role
-Full Stack Developer | Backend Engineer
+Full-Stack / Product Engineer
 
-> focus
-Backend systems, automation, web applications, real-time software
+> core_stack
+TypeScript • React/Next.js • NestJS/Node • PostgreSQL • Docker/Linux
 
-> contact
+> location
+São Paulo, Brazil (UTC-03)
+
+> availability
+International Remote • B2B / Contractor • Relocation
+
+> email
 dev.leonardosantana@gmail.com
+```
+
 <a href="mailto:dev.leonardosantana@gmail.com">
   <img src="https://img.shields.io/badge/PRESS_START_TO_CONNECT-14151A?style=for-the-badge&logo=gmail&logoColor=7DF9FF" alt="Contact CTA"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leonardosantana.tech/hire.php">
+  <img src="https://img.shields.io/badge/VIEW_RECRUITER_BRIEF-14151A?style=for-the-badge&logo=target&logoColor=7DF9FF" alt="Recruiter Brief"/>
 </a>
 
 </div>
